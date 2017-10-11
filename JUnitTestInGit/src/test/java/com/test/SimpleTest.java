@@ -21,6 +21,6 @@ public class SimpleTest {
 		int a = 10;
 		int b = 10;
 		
-		assertTrue(a+b==20);
+		assertTrue(a+b==200);
 	}
 }
