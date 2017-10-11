@@ -15,4 +15,12 @@ public class SimpleTest {
 		
 		assertTrue(a+b==20);
 	}
+
+	@Test
+	public void additionTest() {
+		int a = 10;
+		int b = 10;
+		
+		assertTrue(a+b==20);
+	}
 }
