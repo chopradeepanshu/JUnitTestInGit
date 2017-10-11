@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.test.SimpleTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.085 sec <<< FAILURE!
-aSimpleText(com.test.SimpleTest)  Time elapsed: 0.034 sec  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.072 sec <<< FAILURE!
+aSimpleText(com.test.SimpleTest)  Time elapsed: 0.02 sec  <<< FAILURE!
 java.lang.AssertionError
 	at org.junit.Assert.fail(Assert.java:86)
 	at org.junit.Assert.assertTrue(Assert.java:41)
