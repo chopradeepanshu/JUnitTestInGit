@@ -6,8 +6,6 @@ import org.junit.Test;
 
 public class SimpleTest {
 
-	
-	
 	@Test
 	public void aSimpleText() {
 		int a = 10;
