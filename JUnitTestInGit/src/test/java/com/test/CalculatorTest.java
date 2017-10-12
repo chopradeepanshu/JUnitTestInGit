@@ -28,6 +28,6 @@ public class CalculatorTest {
 		int a = 10;
 		int b = 10;
 		int c = a*b;
-		assertTrue(c==100);
+		assertTrue(c==1000);
 	}
 }
